@@ -1,8 +1,5 @@
-# User Age Calculator
-
 birth_year = input("Enter your birth year: ")
 
-# explicit type conversion
 birth_year = int(birth_year)
 
 current_year = 2026
